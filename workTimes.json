@@ -1,0 +1,14 @@
+{
+  "user1@mail.com": {
+    "startTime": "2024-12-31 08:43",
+    "endTime": "2024-12-31 08:43"
+  },
+  "user2@mail.com": {
+    "startTime": "2024-12-31 01:12",
+    "endTime": "2024-12-31 01:18"
+  },
+  "admin@mail.com": {
+    "startTime": "2024-12-30 14:00",
+    "endTime": "2024-12-10 21:31"
+  }
+}
