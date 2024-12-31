@@ -13,6 +13,7 @@ This guide provides detailed steps for setting up and running the Time Clock Ser
 - Current time fetching from Germany using the WorldTimeAPI.
 - Token blacklisting for secure user logout.
 - Integrated Swagger documentation for API endpoints.
+- Includes api.testing.js for automated API testing.
 
 ---
 
@@ -50,6 +51,15 @@ This guide provides detailed steps for setting up and running the Time Clock Ser
 1. **Start the Server in Development Mode**
    ```bash
    node start
+   ```
+
+---
+
+## Running the Tester
+
+1. **test the Server in Development Mode**
+   ```bash
+   node test
    ```
 
 ---
